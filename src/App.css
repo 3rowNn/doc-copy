@@ -1,0 +1,8 @@
+.app-container{
+  border: 1px dashed rgb(255, 255, 255);
+  width: 1500;
+  margin-left: 220px; 
+  padding: 1rem;
+  background-color: #F2F2E6;
+
+}
